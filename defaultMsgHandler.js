@@ -1,11 +1,4 @@
-/* 
- * 微信公众平台开发模式 Node.js SDK 1.0.0
- * (c) 2012-2013 ____′↘夏悸 <wmails@126.cn>, MIT Licensed
- * http://www.jeasyuicn.com/wechat
- *
- * 默认的消息处理器,可以直接修改本默认处理器,如果自定义请保证结构.
- */
- 
+
 
 /*
  * 文字消息
