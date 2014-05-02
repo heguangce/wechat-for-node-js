@@ -1,6 +1,5 @@
 /* 
  * 微信公众平台 Node.js SDK 1.0.0
- * (c) 2012-2013 ____′↘夏悸 <wmails@126.cn>, MIT Licensed
  * http://www.jeasyuicn.com/wechat
  */
 var http = require('http');
