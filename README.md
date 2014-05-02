@@ -12,8 +12,3 @@
 #####接口配置信息
 URL：http://183.234.47.15/wechat/heguangce
 Token：heguangce
-```
-
-##演示账号：
-
-![image](https://mp.weixin.qq.com/misc/getqrcode?fakeid=3076521604&token=1408281493&style=1)
