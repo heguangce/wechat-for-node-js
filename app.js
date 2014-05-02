@@ -1,7 +1,4 @@
-/* 
- * 微信公众平台 Node.js SDK 1.0.0
- * http://www.jeasyuicn.com/wechat
- */
+
 var http = require('http');
 
 var wechat = require('./wechat');
